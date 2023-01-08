@@ -10,6 +10,7 @@ mock = [{
     'instrucoes_de_armazenamento': 'Guardar na geladeira após aberto'
 }]
 
+
 def test_cria_produto():
     new_product = Product(
         1,
